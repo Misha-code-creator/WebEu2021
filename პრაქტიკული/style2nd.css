@@ -1,0 +1,11 @@
+table {
+    width: 500px;
+        height: 300px; 
+        margin: auto; border: solid rgb(0, 0, 0) 3px;
+}
+td{
+    border: solid rgb(137, 137, 148) 2px;
+}
+tfoot td{
+    background-color: green;
+}
